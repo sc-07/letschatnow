@@ -17,6 +17,7 @@ Some features include
  
 React JS is the framework used and Chat Engine is a set of APIs and UI Kit specific to chat. The application has been deployed using netlify.
 
+![screenshot](https://github.com/sc-07/letschatnow/blob/master/public/Screenshot%20(308).png?raw=true)
  *Username: Username2
 Password: password*
 
